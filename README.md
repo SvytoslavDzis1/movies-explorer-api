@@ -27,7 +27,7 @@
 Если вы хотите скачать код проекта на свой компьютер, то вам понадобится NodeJS и Webpack (для распаковки и запуска кода).
 
 - установите NodeJS;
-- скачайте или клонируйте проект `git clone https://github.com/SvytoslavDzis1/movies-explorer-frontend.git`
+- скачайте или клонируйте проект `git clone https://github.com/SvytoslavDzis1/movies-explorer-api.git`
 - откройте проект в редакторе кода и выполните следующие действия:
 - запустите в командной строке `npm i`;
 - запускает сервер: `npm start`
